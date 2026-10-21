@@ -1,21 +1,23 @@
 # Hello, I'm Oleksandr Verba
 
-Junior Fullstack Developer .NET | React | Next.js | Node.js 
+**Junior Full-Stack Developer** | C#/.NET | React | Next.js | Node.js
 
-Full-stack developer with experience of building desktop and web applications.
-I like creating maintainable products, from idea to deployment. 
+Full-stack developer with experience in building desktop and web applications.
+I like creating maintainable products, from idea to deployment.
 
-## Tech Stack 
-.NET, React, Next.js, Node.js, HTML, CSS, JavaScript
+## Tech Stack
 
+C#/.NET, React, Next.js, Node.js, HTML, CSS, JavaScript
 
 ## Featured Projects
-[**Work Quality**](https://github.com/oleksandr0681/ASPNETCoreMVC-WorkQuality): A specialized web application designed for monitoring and evaluating employee job performance within an IT company.
 
-[**Job Search**](https://github.com/oleksandr0681/BlazorJobSearch): A job search service. Provides a full cycle of interaction between job candidates and employers through an integrated private messaging system.
+- [**Work Quality**](https://github.com/oleksandr0681/ASPNETCoreMVC-WorkQuality): a web application designed for monitoring and evaluating employee job performance within an IT company.
+- [**Job Search**](https://github.com/oleksandr0681/BlazorJobSearch): a job search platform for candidates and employers, featuring private messaging.
+- [**Data Visualization**](https://github.com/oleksandr0681/WPF-DataVisualization): a WPF desktop application for visualizing numerical data.
 
 
 ## Languages
+
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
 
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
